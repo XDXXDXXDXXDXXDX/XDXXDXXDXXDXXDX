@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @XDXXDXXDXXDXXDX
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning web
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 XDXXDXXDXXDXXDX/XDXXDXXDXXDXXDX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
